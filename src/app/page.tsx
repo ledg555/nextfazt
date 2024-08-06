@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <h1>Hola qleros</h1>
+    <h1>Hola mundito</h1>
   )
 }
